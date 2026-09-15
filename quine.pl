@@ -1,0 +1,1 @@
+$_=q($_=q(BODY);s/BODY/$_/;print);s/BODY/$_/;print
